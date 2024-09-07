@@ -1,0 +1,17 @@
+#message, .buttons{
+    width: 200px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#message {
+    border: 2px solid black;
+    height: 200px;
+}
+
+button{
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+}
